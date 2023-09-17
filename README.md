@@ -1,4 +1,9 @@
-
+<h2> Formation en programmation python </h2> 
+<p>
+    Python est devenu le langage de premier choix de nombreux déveleppeur, quelques raison de ce choix est que python est un langage polyvalent, it peux être utilisé pratiquement dans toutes les branches de l'informatique en plus de cela il est intuitif et très facile á maitriser enfin il offre beaucoup d'outils qu'on peut utilisé très facilement. </br>
+    Si vous désirez apprendre python, vous êtes á la bonne place. Ce repository contient un ensemble de contenus sur python construit d'une manière facile á comprendre. Vous trouverez ici les fondements, les bases de la programmation python. A votre disposition se trouve des travaux pratique pour exercer vos compétences et des mini-projets tirer sur des vie réelle. </br>
+    Cette formation est ouverte á tous ceux qui désir apprendre les bases de la programmation python, tous ce qu'il vous faut est d'avoir une machine pour pratiqué et la motivation nécessaire. Ce qui suis détail le contenue de cette formation. 
+</p>
 <h3 style = "text-decoration-line:underline;"> Vous allez apprendre:</h3>
 <p>
     <ul>
@@ -29,7 +34,6 @@
     <ul>
         <li>Les bases en algorithmique : pour ceux qui n'en ont pas, c'est très simple je donnerai de petit notion</li>
         <li> Un Ordinateur  pour executer les programmes</li>
-        <li>Une connexion internet pour se connecter</li>
     </ul>
 </p>
 <h3 style = "text-decoration-line:underline; text-align:center">Le programme est comme suit</h3>
