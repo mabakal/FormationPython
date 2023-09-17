@@ -22,9 +22,9 @@
 <h3 style = "text-decoration-line:underline;"> A la fin de cette formation vous pouvez:</h3>
 <p>
     <ul>
-        <li>Appliquer python dans de differente branche : Médécine, physique, mathématique etc.</li>
-        <li>Apprendre d'autre technologies impliquant python pour se spécialiser : Developement web par example</li>
-        <li>Appliquer python dans la finance si vous avez des connaissances</li>
+        <li>Connaitrez les bases de programmation python</li>
+        <li>Ecrir des programmes python pour résoudre des problèmes réels</li>
+        <li>Appliquer python dans differents domaine</li>
         <li>etc ...</li>
     </ul>
 </p>
