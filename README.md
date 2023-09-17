@@ -1,6 +1,6 @@
 <h2> Formation en programmation python </h2> 
 <p>
-    Python est devenu le langage de premier choix de nombreux déveleppeur, quelques raison de ce choix est que python est un langage polyvalent, it peux être utilisé pratiquement dans toutes les branches de l'informatique en plus de cela il est intuitif et très facile á maitriser enfin il offre beaucoup d'outils qu'on peut utilisé très facilement. </br>
+    Python est devenu le langage de premier choix de nombreux développeurs, quelques raison de ce choix est que python est un langage polyvalent, il peux être utilisé pratiquement dans toutes les branches de l'informatique en plus de cela il est intuitif et très facile á maitriser enfin il dispose des outils á acces overts. </br>
     Si vous désirez apprendre python, vous êtes á la bonne place. Ce repository contient un ensemble de contenus sur python construit d'une manière facile á comprendre. Vous trouverez ici les fondements, les bases de la programmation python. A votre disposition se trouve des travaux pratique pour exercer vos compétences et des mini-projets tirer sur des vie réelle. </br>
     Cette formation est ouverte á tous ceux qui désir apprendre les bases de la programmation python, tous ce qu'il vous faut est d'avoir une machine pour pratiqué et la motivation nécessaire. Ce qui suis détail le contenue de cette formation. 
 </p>
