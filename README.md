@@ -8,7 +8,7 @@
     <ul>
         <li>Comment Manipuler les données</li>
         <li> Notion de base de la programmation </li>
-        <li>Créer ces propre fonction et library</li>
+        <li>Créer fonction et library</li>
         <li>Travailler avec les structures de données en python</li>
         <li>Savoir gérer les Exceptions en python</li>
         <li>Utilisation des fichiers</li>
@@ -147,7 +147,7 @@
             <td style= "background-color: blue;">
                 <ul>
                     <li> Comment installé et utilisé les biblitotheques </li>
-                    <li> Les bibliothèque d'analyse de données </li>
+                    <li> Les bibliothèques d'analyse de données </li>
                 </ul>
             </td>
         </tr>
@@ -156,14 +156,14 @@
             <td style= "background-color: blue;">
                 <ul>
                     <li> Comment installé et utilisé les biblitotheques </li>
-                    <li> Les bibliothèque d'analyse de données </li>
+                    <li> Les bibliothèques d'analyse de données </li>
                 </ul>
             </td>
             <tr>
             <td> Projet </td>
             <td style= "background-color: blue;">
                 <ul>
-                    <li> Liste de projet a choisir </li>
+                    <li> Liste de projet à choisir </li>
                 </ul>
             </td>
         </tr>
