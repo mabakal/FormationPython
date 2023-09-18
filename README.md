@@ -5,7 +5,6 @@
     Cette formation est ouverte á tous ceux qui désir apprendre les bases de la programmation python, tous ce qu'il vous faut est d'avoir une machine pour pratiqué et la motivation nécessaire. Ce qui suis détail le contenue de cette formation. 
 </p>
 <h3 style = "text-decoration-line:underline;"> Vous allez apprendre:</h3>
-<p>
     <ul>
         <li>Comment Manipuler les données</li>
         <li> Notion de base de la programmation </li>
@@ -22,9 +21,9 @@
 <h3 style = "text-decoration-line:underline;"> A la fin de cette formation vous pouvez:</h3>
 <p>
     <ul>
-        <li>Connaitrez les bases de programmation python</li>
-        <li>Ecrir des programmes python pour résoudre des problèmes réels</li>
-        <li>Appliquer python dans differents domaine</li>
+        <li>Connaitrez les fondements de programmation python</li>
+        <li>Ecrir des programmes python pour résoudre des problèmes</li>
+        <li>Appliquer python dans different domaine : finance, développement etc</li>
         <li>etc ...</li>
     </ul>
 </p>
@@ -50,7 +49,7 @@
             <td style= "background-color: blue;">
                 <ul>
                     <li>Idées sur les langages de programmations</li>
-                    <li> Quelquea applicationa des langages de programmation </li>
+                    <li> Quelques applications des langages de programmation </li>
                     <li> Faire un pas vers python, découvrir son application </li>
                     <li> Avoir l'environnement de travail </li>
                 </ul>
@@ -64,7 +63,7 @@
                     <li> Variable, mots clés </li>
                     <li> Type de données et savoir les récuperées </li>
                     <li> Castage </li>
-                    <li> Les operateur Opérateur</li>
+                    <li> Les Opérateurs</li>
                 </ul>
             </td>
         </tr>
@@ -170,4 +169,3 @@
         </tr>
     </tbody>
 </table>
-<hr>
